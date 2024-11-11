@@ -1,6 +1,6 @@
 # Hi there, I'm Suraj! 👋
 
-I'm a Tech Enthusiast currently pursuing an M.Tech in Cyber Security at IIT Delhi. 
+I'm a Tech Enthusiast currently pursuing M.Tech in Cyber Security at IIT Delhi. 
 
 # About Me
 - **M.Tech Cybersecurity Student** at IIT Delhi
